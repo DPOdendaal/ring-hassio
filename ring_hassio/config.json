@@ -12,6 +12,7 @@
       "armv7",
       "i386"
     ],
+    "init": false,
     "boot":"auto",
     "ports": {
         "3000/tcp": 3000
@@ -34,5 +35,4 @@
         "share:rw",
         "config:rw"
     ]
-    "init": "false"
 }
