@@ -34,5 +34,4 @@
         "share:rw",
         "config:rw"
     ]
-    "init": "false"
 }
